@@ -1,0 +1,36 @@
+TÍTULO DA PÁGINA (tag <title>)
+Resgate de animais
+
+DESCRIÇÃO DA PÁGINA (tag <meta name="description">)
+Entenda o trabalho de proteção animal, como organizações cuidam de animais abandonados e de que forma você pode ajudar.
+
+--------------- Página -------------------
+
+1° SEÇÃO: Topo
+<h1> Resgate de animais
+<h2> Uma segunda chance para quem foi abandonado
+
+2° SEÇÃO: Imagem
+<img> (imagem fornecida nos arquivos do projeto, ou a imagem personalizada que você gerar)
+Texto para o alt e o title: descreva a imagem que você usar. Exemplo: Cachorro olhando para a câmera, à espera de um lar
+
+3° SEÇÃO: Blocos de texto (cada bloco é uma <div> com <h3> e <p>)
+Bloco 1
+<h3> Quem precisa de ajuda
+<p> Muitos cães e gatos são abandonados e precisam de cuidado e proteção. Organizações de proteção animal acolhem esses bichinhos até que encontrem um novo lar.
+
+Bloco 2
+<h3> Conheça a SUIPA
+<p> A Sociedade União Internacional Protetora dos Animais, a SUIPA, é uma entidade do Rio de Janeiro, sem fins lucrativos e de utilidade pública, que existe desde 1943. Ela é não eutanásica, ou seja, não pratica eutanásia.
+
+Bloco 3
+<h3> Como ajudar
+<p> Você pode ajudar adotando um animal, fazendo uma doação ou se associando a uma organização de proteção animal. Cada gesto faz diferença na vida de quem está abrigado.
+
+4° SEÇÃO: Destaque com link
+<h4> Quer saber mais sobre o resgate de animais?
+<a> Conheça o site da SUIPA
+Endereço do link: https://www.suipa.org.br
+
+5° SEÇÃO: Rodapé
+<h6> Desenvolvido por (escreva o seu nome) | Imagem gerada por inteligência artificial

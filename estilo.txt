@@ -1,0 +1,85 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f7fa;
+        color: #333333;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        background-color: #1d3557;
+        color: #ffffff;
+        text-align: center;
+        margin: 0;
+        padding: 48px 20px 12px;
+    }
+
+    h2 {
+        font-size: 22px;
+        font-weight: normal;
+        background-color: #1d3557;
+        color: #cfe3f3;
+        text-align: center;
+        margin: 0;
+        padding: 0 20px 48px;
+    }
+
+    img {
+        display: block;
+        width: 90%;
+        max-width: 800px;
+        border-radius: 8px;
+        margin: 40px auto 24px;
+    }
+
+    div {
+        width: 90%;
+        max-width: 800px;
+        box-sizing: border-box;
+        background-color: #ffffff;
+        padding: 24px;
+        margin: 0 auto 24px;
+        border-radius: 8px;
+    }
+
+    h3 {
+        font-size: 20px;
+        color: #1d3557;
+        margin: 0 0 8px;
+    }
+
+    p {
+        font-size: 17px;
+        line-height: 1.7;
+        margin: 0;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 1.5;
+        background-color: #dcebf8;
+        color: #1d3557;
+        width: 90%;
+        max-width: 800px;
+        box-sizing: border-box;
+        border-left: 8px solid #0b6aa8;
+        border-radius: 8px;
+        padding: 24px;
+        margin: 0 auto 24px;
+    }
+
+    h6 {
+        font-size: 15px;
+        font-weight: bold;
+        background-color: #1d3557;
+        color: white;
+        text-align: center;
+        margin: 48px 0 0;
+        padding: 32px 20px;
+    }
+
+    a {
+        color: #0b6aa8;
+    }
+</style>
